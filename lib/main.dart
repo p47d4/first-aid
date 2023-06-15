@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_healthcare_app/src/config/route.dart';
-import 'package:flutter_healthcare_app/src/theme/theme.dart';
+import 'package:first_aid_app/src/config/route.dart';
+import 'package:first_aid_app/src/theme/theme.dart';
 
 void main() => runApp(MyApp());
 

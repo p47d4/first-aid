@@ -1,24 +1,24 @@
-## flutter_healthcare_app ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_healthcare_app?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_healthcare_app) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_healthcare_app?style=social) 
+## first_aid_app ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/first_aid_app?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%first_aid_app) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/first_aid_app?style=social) 
 
-![Dart CI](https://github.com/TheAlphamerc/flutter_healthcare_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_healthcare_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_healthcare_app) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_healthcare_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_healthcare_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_healthcare_app) 
+![Dart CI](https://github.com/TheAlphamerc/first_aid_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/first_aid_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/first_aid_app) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/first_aid_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/first_aid_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/first_aid_app) 
 
 
 Healthcare app is a design implementaion of [Healthcare Mobile App](https://www.uplabs.com/posts/healthcare-mobile-app-d9081ded-e7b3-4705-8990-82ead42c22da) designed by [Chirag Chauhan](https://www.uplabs.com/chirag_designer2610)
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_healthcare_app/total?color=green)
-<a href="https://github.com/TheAlphamerc/flutter_healthcare_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-<img src="https://github.com/TheAlphamerc/flutter_healthcare_app/blob/master/screenshots/HealthcareMobileApp.png?raw=true"  /> 
+## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/first_aid_app/total?color=green)
+<a href="https://github.com/TheAlphamerc/first_aid_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<img src="https://github.com/TheAlphamerc/first_aid_app/blob/master/screenshots/HealthcareMobileApp.png?raw=true"  /> 
 
 ## Android Screenshots
 
   HomePage                 |    Detail Page        
 :-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_healthcare_app/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_healthcare_app/blob/master/screenshots/screenshot_2.jpg?raw=true)
+![](https://github.com/TheAlphamerc/first_aid_app/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/first_aid_app/blob/master/screenshots/screenshot_2.jpg?raw=true)
 
 ## iOS Screenshots
   HomePage                 |    Detail Page      
 :-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_healthcare_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_healthcare_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)
+![](https://github.com/TheAlphamerc/first_aid_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/TheAlphamerc/first_aid_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)
 
 ## Directory Structure
 ```
@@ -93,4 +93,4 @@ Plugin Name        | Stars
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/flutter_healthcare_app/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/first_aid_app/count.svg" alt ="Loading">

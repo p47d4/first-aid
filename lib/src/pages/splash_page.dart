@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_healthcare_app/src/pages/home_page.dart';
-import 'package:flutter_healthcare_app/src/theme/light_color.dart';
-import 'package:flutter_healthcare_app/src/theme/text_styles.dart';
-import 'package:flutter_healthcare_app/src/theme/extention.dart';
+import 'package:first_aid_app/src/pages/home_page.dart';
+import 'package:first_aid_app/src/theme/light_color.dart';
+import 'package:first_aid_app/src/theme/text_styles.dart';
+import 'package:first_aid_app/src/theme/extention.dart';
 
 class SplashPage extends StatefulWidget {
   SplashPage({Key key}) : super(key: key);

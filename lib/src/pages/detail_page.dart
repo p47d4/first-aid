@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_healthcare_app/src/theme/light_color.dart';
-import 'package:flutter_healthcare_app/src/model/dactor_model.dart';
-import 'package:flutter_healthcare_app/src/theme/text_styles.dart';
-import 'package:flutter_healthcare_app/src/theme/theme.dart';
-import 'package:flutter_healthcare_app/src/theme/extention.dart';
-import 'package:flutter_healthcare_app/src/widgets/progress_widget.dart';
-import 'package:flutter_healthcare_app/src/widgets/rating_start.dart';
+import 'package:first_aid_app/src/theme/light_color.dart';
+import 'package:first_aid_app/src/model/dactor_model.dart';
+import 'package:first_aid_app/src/theme/text_styles.dart';
+import 'package:first_aid_app/src/theme/theme.dart';
+import 'package:first_aid_app/src/theme/extention.dart';
+import 'package:first_aid_app/src/widgets/progress_widget.dart';
+import 'package:first_aid_app/src/widgets/rating_start.dart';
 
 class DetailPage extends StatefulWidget {
   DetailPage({Key key, this.model}) : super(key: key);

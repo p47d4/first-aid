@@ -1,4 +1,4 @@
-package com.thealphamerc.flutter_healthcare_app;
+package com.thealphamerc.first_aid_app;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
